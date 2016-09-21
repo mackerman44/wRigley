@@ -1,9 +1,11 @@
 Package: wRigley
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Baseball Data Analysis in R
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Date: 09-21-2016
+Author: Mike Ackerman <mackerman@qcinc.org>
+Maintainer: Mike Ackerman <mackerman@qcinc.org>
+Description: wRigley is an R package for analysis of baseball data (with an emphasis on the Chicago Cubs!).
+License: GPL-3
 LazyData: TRUE
+RoxygenNote: 5.0.1
